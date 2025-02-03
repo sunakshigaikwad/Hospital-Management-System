@@ -6,7 +6,7 @@ The **Hospital Management System** is a Java-based project that helps manage app
 ## Features
 - **Appointment Management**: Schedule and manage appointments.
 - **Doctor Management**: Manage doctor details and schedules.
-- **Patient Management**: Add and view patient information and appointment history.
+- **Patient Management**: Add and view patient information.
 
 ## Technologies Used
 - **Java**: For programming.
